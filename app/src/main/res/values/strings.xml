@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AuthApp</string>
+    <string name="prefsValue">com.agustinf1233.authapp</string>
+</resources>
